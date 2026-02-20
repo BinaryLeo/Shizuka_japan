@@ -1,0 +1,7 @@
+id = "shizukajapan-theme"
+name = "Shizuka Japan"
+version = "0.0.1"
+schema_version = 1
+authors = ["BinaryLeo"]
+description = "A serene Zed IDE theme inspired by the tranquility of Japanese nights — perfect for focused, late-night coding sessions."
+repository = "https://github.com/BinaryLeo/Shizuka_japan"
