@@ -6,7 +6,7 @@ A serene Zed IDE theme inspired by the tranquility of Japanese aesthetics — pe
 
 **Shizuka** (静か) is a Japanese word meaning *quiet*, *calm*, or *peaceful*. This theme embodies that essence through:
 
-- **Deep, muted backgrounds** — Like the stillness of a Kyoto night
+- **Deep, muted backgrounds** — Like the stillness of Mount Fuji at night
 - **Soft accent colors** — Gentle pops of color inspired by traditional Japanese aesthetics
 - **Low contrast design** — Easy on the eyes during extended coding sessions
 - **Three unique variations** — Each capturing a different moment of Japanese serenity
@@ -16,14 +16,14 @@ A serene Zed IDE theme inspired by the tranquility of Japanese aesthetics — pe
 ## 🎨 Theme Variations
 
 ### 🌙 Shizuka Japan (Dark)
-*The original — inspired by Kyoto nights and neon-lit streets*
+*The original — inspired by Mount Fuji at twilight*
 
 ![Shizuka Japan Dark](Resources/Dark.png)
 
 **Mood:** Mysterious, focused, immersive  
 **Best for:** Late-night coding, low-light environments
 
-The dark theme captures the essence of Japanese urban nights — the deep blacks of *sumi-e* ink paintings combined with the vibrant neon accents of Tokyo's backstreets. The high contrast keeps you alert while the muted background prevents eye strain during marathon coding sessions.
+The dark theme captures the essence of Mount Fuji at twilight — the deep blacks of the night sky against the mountain's iconic silhouette, with subtle accent colors reflecting the last glow of sunset. The high contrast keeps you alert while the muted background prevents eye strain during marathon coding sessions.
 
 ---
 
@@ -154,7 +154,7 @@ The themes were developed from these atmospheric reference images:
 | Dark | Countryside & Morning Mist |
 |------|---------------------------|
 | ![Dark Concept](Resources/Shizuka_dark.jpg) | ![Light Concept](Resources/Shizuka_countryside_morning%20mist.jpg) |
-| *Neon-lit Kyoto alleyways* | *Rural Japanese countryside at dawn* |
+| *Mount Fuji silhouetted against the twilight sky* | *Rural Japanese countryside at dawn* |
 
 ### 📷 Image Credits
 
